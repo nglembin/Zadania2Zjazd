@@ -14,12 +14,12 @@ int main() {
     }
     cout << endl;
 
-    cout << "Kolumnao długości b:\n";
+    cout << "Kolumna o długości b:\n";
     for (int i = 0; i < b; i++) {
         cout << "*" << endl;
     }
 
-    cout << "\nProstokąt o wymiarach 'a' na 'b':\n";
+    cout << "Prostokąt o wymiarach 'a' na 'b':\n";
     for (int i = 0; i < b; i++) {
         for (int j = 0; j < a; j++) {
             cout << "*";

@@ -79,7 +79,6 @@ int main() {
             break;
     }
 
-    // Wyświetlanie wyników
     cout << "Miesiac: " << nazwaMiesiaca << endl;
     cout << "Liczba dni: " << dni << endl;
     cout << "Pogoda: " << (czySlonecznie ? "Slonecznie" : "Pochmurno") << endl;
